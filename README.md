@@ -2,6 +2,10 @@
 
 ```ruby
 class Matheus
+  def self.description
+    "A curious developer. Always learning, always changing."
+  end
+
   def self.blogging_at
     "http://matheusrich.github.io/"
   end
