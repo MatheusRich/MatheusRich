@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Matheus! 👋
 
-<!--
-**MatheusRich/MatheusRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ruby
+class Matheus
+  def self.blogging_at
+    "http://matheusrich.github.io/"
+  end
 
-Here are some ideas to get you started:
+  def self.open_source_tools
+    {
+      "Benchable" => "github.com/MatheusRich/benchable",
+      "Dontfile" => "github.com/dontfile/dontfile",
+      "FService" => "github.com/Fretadao/f_service",
+    }
+  end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  def self.twitter
+    "@matheusrich"
+  end
+
+  def self.hobbies
+    ["Gaming", "Playing guitar", "Skating"]
+  end
+end
+```
