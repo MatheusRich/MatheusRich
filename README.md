@@ -14,6 +14,7 @@ class Matheus
     {
       "Benchable" => "github.com/MatheusRich/benchable",
       "Dontfile" => "github.com/dontfile/dontfile",
+      "EzAttributes" => "github.com/MatheusRich/ez_attributes",
       "FService" => "github.com/Fretadao/f_service",
     }
   end
