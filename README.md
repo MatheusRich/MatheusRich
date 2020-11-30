@@ -7,7 +7,7 @@ class Matheus
   end
 
   def self.blogging_at
-    "http://matheusrich.github.io/"
+    "https://matheusrich.com"
   end
 
   def self.open_source_tools
