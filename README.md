@@ -1,7 +1,7 @@
 ### Hi, I'm Matheus! 👋
 
 ```ruby
-class Matheus
+module Matheus
   def self.description
     "A curious developer. Always learning, always changing."
   end
