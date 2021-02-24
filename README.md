@@ -7,7 +7,8 @@ module Matheus
   def self.blogging_at() = "https://matheusrich.com"
 
   def self.open_source_tools() = {
-    "Dontfile" => "github.com/dontfile/dontfile",
+    "Lit Lang" => "github.com/lit-lang/lit",
+    "Benchable" => "github.com/MatheusRich/benchable",
     "EzAttributes" => "github.com/MatheusRich/ez_attributes",
     "FService" => "github.com/Fretadao/f_service",
   }
