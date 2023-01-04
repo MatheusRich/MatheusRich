@@ -7,10 +7,10 @@ module Matheus
   def self.blogging_at = "https://matheusrich.com"
 
   def self.open_source_tools = {
-    "Lit Lang"     => "github.com/lit-lang/lit",
+    "End of Life"  => "github.com/MatheusRich/end_of_life",
     "Benchable"    => "github.com/MatheusRich/benchable",
     "EzAttributes" => "github.com/MatheusRich/ez_attributes",
-    "FService"     => "github.com/Fretadao/f_service",
+    "Lit Lang"     => "github.com/lit-lang/lit",
   }
 
   def self.twitter = "@matheusrich"
