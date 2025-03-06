@@ -4,7 +4,7 @@
 module Matheus
   def self.description = "A curious developer. Always learning, always changing."
 
-  def self.blogging_at = "https://matheusrich.com"
+  def self.blogging_at = "https://tbot.io/blog/matheus"
 
   def self.working_at  = "@thoughtbot"
 
