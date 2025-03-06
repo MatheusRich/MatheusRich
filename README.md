@@ -4,9 +4,11 @@
 module Matheus
   def self.description = "A curious developer. Always learning, always changing."
 
+  def self.working_at  = "@thoughtbot"
+
   def self.blogging_at = "https://tbot.io/blog/matheus"
 
-  def self.working_at  = "@thoughtbot"
+  def self.organizer_of = "https://rubydf.com"
 
   def self.open_source_tools = {
     "Rails::Diff"  => "https://github.com/MatheusRich/rails-diff",
